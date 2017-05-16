@@ -401,7 +401,7 @@ body .one .bsa_it_p {
 @media (max-width: 1440px) {
 
 	.subnav-fixed .nav {
-		width: 1260px;
+		width: 1300px;
 	}
 
 	.subnav-fixed .nav > .active > a,
@@ -412,7 +412,7 @@ body .one .bsa_it_p {
 
 	.subnav-fixed .nav > li > a{
 		color:#ddd;
-		padding:16px 20px;
+		padding:15px 20px;
 		border-left: 0;
 		border-right: 0;
 
