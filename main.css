@@ -330,40 +330,6 @@ body .one .bsa_it_p {
 	border-radius: 0 0 4px 4px;
 }
 
-@media (max-width: 767px) {
-
-	.subnav {
-		position: static;
-		top: auto;
-		z-index: auto;
-		width: auto;
-		height: auto;
-		background: #fff; /* whole background property since we use a background-image for gradient */
-		-webkit-box-shadow: none;
-		-moz-box-shadow: none;
-		box-shadow: none;
-	}
-
-	.subnav .nav > li {
-		float: none;
-	}
-
-	.subnav .nav > li > a {
-		border: 0;
-	}
-
-	.subnav .nav > li + li > a {
-		border-top: 1px solid #e5e5e5;
-	}
-
-	.subnav .nav > li:first-child > a,
-	.subnav .nav > li:first-child > a:hover {
-		-webkit-border-radius: 4px 4px 0 0;
-		-moz-border-radius: 4px 4px 0 0;
-		border-radius: 4px 4px 0 0;
-	}
-}
-
 @media (min-width: 980px) {
 
 	.subnav-fixed {
@@ -374,7 +340,7 @@ body .one .bsa_it_p {
 		height: 56px;
 		z-index: 1020;
 		background: rgba(30, 36, 42, 0.5);
-		font-weight: 600;
+		font-weight: 500;
 		border:0;
 		box-shadow: 0 0px 8px rgba(0,0,0,0.2)
 	}
