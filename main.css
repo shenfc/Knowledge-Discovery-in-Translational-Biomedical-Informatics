@@ -398,10 +398,10 @@ body .one .bsa_it_p {
 	}
 }
 
-@media (min-width: 1210px) {
+@media (max-width: 1440px) {
 
 	.subnav-fixed .nav {
-		width: 1300px;
+		width: 1260px;
 	}
 
 	.subnav-fixed .nav > .active > a,
@@ -412,7 +412,7 @@ body .one .bsa_it_p {
 
 	.subnav-fixed .nav > li > a{
 		color:#ddd;
-		padding:20px 20px;
+		padding:16px 20px;
 		border-left: 0;
 		border-right: 0;
 
